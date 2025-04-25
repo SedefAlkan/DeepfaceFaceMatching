@@ -10,7 +10,6 @@ Bu proje, farklı yüz tanıma modelleri ve yüz algılama yöntemlerini kullana
 - [Çıktılar](#çıktılar)
 
 ---
-
 ## Gereksinimler
 Aşağıdaki kütüphanelerin yüklenmiş olması gerekmektedir:
 
