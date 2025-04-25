@@ -107,6 +107,7 @@ Bu betik çalıştırıldığında:
 
 ## Çıktılar
 
+
 ### `deepface_comparison.py` Çıktısı
 Betik tamamlandığında `deepface_comparison_results.csv` dosyasında aşağıdaki gibi bir çıktı oluşur:
 
