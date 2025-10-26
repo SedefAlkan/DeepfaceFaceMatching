@@ -124,13 +124,13 @@ Bu dosya, her model ve yüz algılama yöntemi kombinasyonunun doğruluk oranın
 Bu betik çalıştırıldığında ekrana aşağıdaki gibi bir tablo çizilir:
 
 ```
-| Detector  | ArcFace | VGG-Face | Dlib | Facenet | GhostFaceNet |
-|-----------|---------|----------|------|---------|--------------|
-| retinaface| 85.23   | 87.34    | 78.12| 88.45   | 80.50        |
-| mtcnn     | 86.12   | 89.45    | 79.56| 87.98   | 81.23        |
-| dlib      | 82.34   | 85.12    | 77.89| 86.76   | 79.45        |
-| ssd       | 80.56   | 84.23    | 75.45| 85.67   | 78.12        |
-```
+| Detector   | ArcFace | VGG-Face |  Dlib | Facenet | GhostFaceNet |
+| ---------- | :-----: | :------: | :---: | :-----: | :----------: |
+| retinaface |  99.12  |   96.18  | 82.65 |  94.71  |     95.59    |
+| mtcnn      |  98.82  |   96.76  | 84.12 |  95.00  |     95.29    |
+| dlib       |  98.24  |   96.18  | 96.18 |  94.41  |     74.12    |
+| ssd        |  95.86  |   94.83  | 75.52 |  93.45  |     94.14    |
+
 
 Bu tablo, farklı model ve yüz algılama yöntemlerinin doğruluk oranlarını göstermektedir.
 
